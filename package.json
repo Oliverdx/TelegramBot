@@ -1,0 +1,23 @@
+{
+  "name": "telegrambot",
+  "version": "1.0.0",
+  "description": "Telegram Bot by Dexter Oliveira",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Oliverdx/TelegramBot.git"
+  },
+  "author": "Dexter Oliveira",
+  "license": "(ISC)",
+  "bugs": {
+    "url": "https://github.com/Oliverdx/TelegramBot/issues"
+  },
+  "homepage": "https://github.com/Oliverdx/TelegramBot#readme",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.30.0",
+    "xmlhttprequest": "^1.8.0"
+  }
+}
